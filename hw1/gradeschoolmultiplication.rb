@@ -46,7 +46,7 @@ end
 
 ## Test
 
-x = 1024
+x = 0
 y = 16
 
 # Convert to arrays using fun ruby things
